@@ -1,3 +1,9 @@
+''' 
+    * Generate a strong password for yourself using Python 
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * Use of Array, Random and exceptions handle.  
+'''
+    
 import string
 import random
 
